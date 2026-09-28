@@ -535,12 +535,6 @@ RazorCommerce/
 │   │   └── ...
 │   └── ...
 │
-├── docs/
-│   ├── PRD.md
-│   ├── ARCHITECTURE.md
-│   ├── DATA_MODEL.md
-│   └── IMPLEMENTATION_PLAN.md
-│
 ├── docker-compose.yml
 ├── .env.example
 └── README.md
